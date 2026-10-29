@@ -1,0 +1,3 @@
+Model,MAE,RMSE
+Baseline,14672.75,19076.62
+Holt Trend,8346.25,11122.9
